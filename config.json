@@ -1,0 +1,18 @@
+{
+    "color_space": "YCrCb",
+    "pix_per_cell": 16,
+    "cell_per_block": 2,
+    "orient": 11,
+    "hog_channel": "ALL",
+    "spatial_size": [32, 32],
+    "window_dim": [64, 64],
+    "winStep": 10,
+    "pyramidScale": 1.5,
+    "minProb": 0.9,
+    "hist_bins": 32,
+    "spatial_feat": 1,
+    "hist_feat": 1,
+    "hog_feat": 1,
+    "ystart": 400,
+    "ystop": 656
+}
